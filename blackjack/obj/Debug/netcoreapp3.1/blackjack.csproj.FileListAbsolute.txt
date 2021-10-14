@@ -1,0 +1,13 @@
+C:\Users\zamre\source\repos\blackjack\blackjack\bin\Debug\netcoreapp3.1\blackjack.exe
+C:\Users\zamre\source\repos\blackjack\blackjack\bin\Debug\netcoreapp3.1\blackjack.deps.json
+C:\Users\zamre\source\repos\blackjack\blackjack\bin\Debug\netcoreapp3.1\blackjack.runtimeconfig.json
+C:\Users\zamre\source\repos\blackjack\blackjack\bin\Debug\netcoreapp3.1\blackjack.runtimeconfig.dev.json
+C:\Users\zamre\source\repos\blackjack\blackjack\bin\Debug\netcoreapp3.1\blackjack.dll
+C:\Users\zamre\source\repos\blackjack\blackjack\bin\Debug\netcoreapp3.1\blackjack.pdb
+C:\Users\zamre\source\repos\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.csproj.AssemblyReference.cache
+C:\Users\zamre\source\repos\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.AssemblyInfoInputs.cache
+C:\Users\zamre\source\repos\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.AssemblyInfo.cs
+C:\Users\zamre\source\repos\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\zamre\source\repos\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.dll
+C:\Users\zamre\source\repos\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.pdb
+C:\Users\zamre\source\repos\blackjack\blackjack\obj\Debug\netcoreapp3.1\blackjack.genruntimeconfig.cache
